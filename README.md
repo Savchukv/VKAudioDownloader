@@ -1,7 +1,7 @@
 # VKAudioDownloader
 Python script for downloading all audio from vk.com
 
-![]()
+![](https://github.com/Savchukv/VKAudioDownloader/blob/main/preview.jpg)
 
 ## Requirements
 Python 3.7.3+
